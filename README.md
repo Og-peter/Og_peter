@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="https://t.me/OG_PETER">
-    <img src="https://img.shields.io/badge/DevineParadox-Telegram-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Peter_Parker-Telegram-blue?style=for-the-badge&logo=telegram" />
   </a>
   <a href="mailto:zainmehar10044@gmail.com">
     <img src="https://img.shields.io/badge/zainmehar10044@gmail.com-Gmail-red?style=for-the-badge&logo=gmail" />
