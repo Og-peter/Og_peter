@@ -27,5 +27,5 @@
 ### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
 - [![telegram](https://img.shields.io/badge/DevineParadox-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/OG_PETER)
-- [![gmail](https://img.shields.io/badge/devineparadox@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto: zainmehar10044@gmail.com)
+- [![gmail](https://img.shields.io/badge/zainmehar10044@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto: zainmehar10044@gmail.com)
 
