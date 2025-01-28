@@ -6,7 +6,7 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img src="https://i.ibb.co/fvgbbm8/photo-2025-01-28-06-57-53-7464857064020377632.jpg" width="400" style="border-radius: 15px;" alt="Profile Photo" />
 </div>
 
@@ -21,9 +21,31 @@
 ---
 
 ### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
-<a href="https://github.com/Og-peter/Og_peter-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=devineparadox&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=devineparadox&bg_color=1a1a1a&color=f8d847&line=f75c7e&point=f7f7f7&area=true&hide_border=true" />
 </a>
+
+---
+
+### 🚀 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devineparadox&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devineparadox&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+</p>
+
+---
+
+### 🛠️ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪ ᴡᴏʀᴋ ᴡɪᴛʜ
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
@@ -37,28 +59,6 @@
     <img src="https://img.shields.io/badge/zainmehar10044@gmail.com-Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
-
----
-
-### 🛠️ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ɪ ᴡᴏʀᴋ ᴡɪᴛʜ
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 🚀 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devineparadox&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devineparadox&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
-</p>
 
 ---
 
