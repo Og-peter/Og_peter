@@ -14,20 +14,16 @@
 
 ### ᴀʙᴏᴜᴛ ᴘᴇᴛᴇʀ
 
-ʜᴇʏ... ɪ’ᴍ ᴊᴜsᴛ ᴀ **sᴛʀᴜɢɢʟɪɴɢ ᴘʀᴏɢʀᴀᴍᴍᴇʀ**, ᴛʀʏɪɴɢ ᴛᴏ ғɪɢᴜʀᴇ ᴛʜɪɴɢs ᴏᴜᴛ. ᴛᴇᴄʜɴᴏʟᴏɢʏ ғᴀsᴄɪɴᴀᴛᴇs ᴍᴇ, ʙᴜᴛ ʜᴏɴᴇsᴛʟʏ, ɪᴛ ᴏғᴛᴇɴ ғᴇᴇʟs ʟɪᴋᴇ ɪ’ᴍ ᴍɪʟᴇs ʙᴇʜɪɴᴅ ᴇᴠᴇʀʏᴏɴᴇ ᴇʟsᴇ.  
-ɪ ᴋᴇᴇᴘ ᴍᴀᴋɪɴɢ **ᴍɪsᴛᴀᴋᴇs** ᴀɴᴅ ᴅᴏᴜʙᴛɪɴɢ ᴍʏsᴇʟғ, ᴡᴏɴᴅᴇʀɪɴɢ ɪғ ɪ’ʟʟ ᴇᴠᴇʀ ʙᴇ **ɢᴏᴏᴅ ᴇɴᴏᴜɢʜ**.  
-**ʙᴜᴛ ᴛʜᴀᴛ’s ᴡʜᴀᴛ ᴋᴇᴇᴘs ᴍᴇ ɢʀᴏᴡɪɴɢ.**
+> 🏆 *"The only limit to our realization of tomorrow is our doubts of today."*  
+> 🌟 *Keep pushing forward, one bug at a time!*
+
+ʜᴇʏ... ɪ’ᴍ ᴊᴜsᴛ ᴀ **sᴛʀᴜɢɢʟɪɴɢ ᴘʀᴏɢʀᴀᴍᴍᴇʀ**, ᴛʀʏɪɴɢ ᴛᴏ ғɪɢᴜʀᴇ ᴏᴜᴛ ᴛʜɪɴɢs.  
+**ᴍɪsᴛᴀᴋᴇs** ᴀʀᴇ ᴍʏ ᴛᴇᴀᴄʜᴇʀs, ᴀɴᴅ ᴄᴜʀɪᴏsɪᴛʏ ᴋᴇᴇᴘs ᴍᴇ ɢᴏɪɴɢ.  
+ᴛᴇᴄʜ ɪs ᴀ ʟᴀʙʏʀɪɴᴛʜ, ʙᴜᴛ ɪ'ʟʟ ғɪɴᴅ ᴍʏ ᴡᴀʏ! 🚀  
 
 ---
 
-### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=devineparadox&bg_color=1a1a1a&color=f8d847&line=f75c7e&point=f7f7f7&area=true&hide_border=true" />
-</a>
-
----
-
-### 🚀 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+### 🔥 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devineparadox&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
@@ -36,7 +32,14 @@
 
 ---
 
-### 🛠️ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪ ᴡᴏʀᴋ ᴡɪᴛʜ
+### 📊 ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=devineparadox&bg_color=1a1a1a&color=f8d847&line=f75c7e&point=f7f7f7&area=true&hide_border=true" />
+</a>
+
+---
+
+### ⚙️ ᴛᴇᴄʜ ᴛᴏᴏʟꜱ
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +52,15 @@
 
 ---
 
-### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
+### 🌟 ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ꜱᴛɪᴄᴋᴇʀ
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMydHh3Z3VoMHB0ZnIzbXkyZmM1ZmhzbGRhOWJkaW5nOHp0bWZsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BXrwTdoho6hkQ/giphy.gif" width="200" alt="Anime Sticker">
+</p>
+
+---
+
+### 📞 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
 <div align="center">
   <a href="https://t.me/OG_PETER">
@@ -63,5 +74,5 @@
 ---
 
 <p align="center">
-  ✨ **“Mistakes are proof that you’re trying. Keep learning and growing!”** ✨
+  ✨ **"Embrace the struggle. Each error is a step toward mastery!"** ✨
 </p>
