@@ -26,8 +26,8 @@
 ### 🔥 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devineparadox&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devineparadox&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Og_peter&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Og_peter&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
 </p>
 
 ---
@@ -52,8 +52,6 @@
 
 ---
 
-### 🌟 ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ꜱᴛɪᴄᴋᴇʀ
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMydHh3Z3VoMHB0ZnIzbXkyZmM1ZmhzbGRhOWJkaW5nOHp0bWZsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BXrwTdoho6hkQ/giphy.gif" width="200" alt="Anime Sticker">
 </p>
@@ -72,7 +70,3 @@
 </div>
 
 ---
-
-<p align="center">
-  ✨ **"Embrace the struggle. Each error is a step toward mastery!"** ✨
-</p>
