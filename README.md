@@ -1,7 +1,7 @@
 <h2 align="center">──「 神┊ᑭᴇᴛᴇʀ ᑭᴀʀᴋᴇʀ 」──</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&lines=%E0%9D%80%E0%9D%91%E0%9D%97%E0%9D%9F%E0%9D%9B%2C+%E0%9D%97%E0%9D%96%CA%92+%E0%9D%90%93%E0%9D%90%AE%E0%9D%90%B2%E0%9D%97%AE%E0%9D%97%B2%E0%9D%97%AF%2C+%E0%9D%90%93%E0%9D%97%BC%E0%9D%97%BD%E0%9D%97%B2%21;ᴀ+ᴄᴜʀɪᴏᴜs+ᴘʀᴏɢʀᴀᴍᴍᴇʀ;ᴛᴇᴄʜ+ᴇxᴄɪᴛᴇs+ᴍᴇ!;ᴋᴇᴇᴘ+ʟᴇᴀʀɴɪɴɢ+%E2%9C%A8">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=24&center=true&vCenter=true&width=500&lines=%E2%9C%A8+%E0%9D%97%96%CA%92+%E0%9D%97%97%E0%9D%9B%E0%9D%9F+%E0%9D%97%A2%E0%9D%97%BC%E0%9D%97%AE%2C+%E0%9D%97%A2%E0%9D%97%AE%E0%9D%97%AE%E0%9D%97%B2%E0%9D%97%A3%E0%9D%97%BF+%E0%9D%97%97%CA%80%E0%9D%97%BB%2C;%E2%9C%A8+%E0%9D%97%A2%E0%9D%97%BF%E0%9D%97%A3%E0%9D%97%BC+%E0%9D%97%97%E0%9D%9B%E0%9D%9F+%E0%9D%97%A2%E0%9D%97%BC%E0%9D%97%AE%2C;✨+%E2%80%9Cᴋᴇᴇᴘ+ᴄʜᴀꜱɪɴɢ+ᴛʜᴇ+ʟɪɢʜᴛ%2C+ɪᴛ+ᴡɪʟʟ+ɢᴜɪᴅᴇ+ʏᴏᴜ+ᴛᴏ+ɢʀᴇᴀᴛɴᴇꜱꜱ.%E2%80%9D+✨">
 </p>
 
 ---
